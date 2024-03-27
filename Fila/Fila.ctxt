@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Fila
+comment1.params=servidores\ capacidade\ chegadaInicial\ chegadas\ atendimentos
+comment1.target=Fila(int,\ int,\ double,\ int[],\ int[])
+comment2.params=
+comment2.target=void\ chegada()
+comment3.params=
+comment3.target=void\ saida()
+comment4.params=min\ max
+comment4.target=double\ agendaEvento(int,\ int)
+comment5.params=proximo
+comment5.target=double\ pseudos(double)
+comment6.params=
+comment6.target=void\ main()
+numComments=7
